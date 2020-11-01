@@ -1,28 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/macintosh/OcelotAPIGatewaySample/IdentityServer/IdentityServer.csproj": {}
+    "C:\\Projects\\Repos\\SampleOcelotAPIGateway\\IdentityServer\\IdentityServer.csproj": {}
   },
   "projects": {
-    "/Users/macintosh/OcelotAPIGatewaySample/IdentityServer/IdentityServer.csproj": {
+    "C:\\Projects\\Repos\\SampleOcelotAPIGateway\\IdentityServer\\IdentityServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/macintosh/OcelotAPIGatewaySample/IdentityServer/IdentityServer.csproj",
+        "projectUniqueName": "C:\\Projects\\Repos\\SampleOcelotAPIGateway\\IdentityServer\\IdentityServer.csproj",
         "projectName": "IdentityServer",
-        "projectPath": "/Users/macintosh/OcelotAPIGatewaySample/IdentityServer/IdentityServer.csproj",
-        "packagesPath": "/Users/macintosh/.nuget/packages/",
-        "outputPath": "/Users/macintosh/OcelotAPIGatewaySample/IdentityServer/obj/",
+        "projectPath": "C:\\Projects\\Repos\\SampleOcelotAPIGateway\\IdentityServer\\IdentityServer.csproj",
+        "packagesPath": "C:\\Users\\josem\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\Repos\\SampleOcelotAPIGateway\\IdentityServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "/Users/macintosh/.config/NuGet/NuGet.Config"
+          "C:\\Users\\josem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +82,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
